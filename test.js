@@ -1,4 +1,5 @@
-console.log("hello, aws classroom!")
-const now = new Date();
-console.log(now.toString());
-console.log(now.toLocaleTimeString())
+console.log("==> code pipeline")
+console.log("AWS")
+console.log("AWS 00")
+console.log("AWS 01")
+console.log("AWS 02")
